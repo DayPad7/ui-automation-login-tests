@@ -1,0 +1,45 @@
+# Build output
+/target/
+**/target/
+
+# Compiled classes
+*.class
+
+# Maven
+/.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDEs
+/.idea/
+/*.iml
+*.ipr
+*.iws
+/.vscode/
+/.project
+.classpath
+.settings/
+
+# macOS
+.DS_Store
+
+# Logs, temp
+*.log
+*.ctxt
+*.tmp
+*.cache
+
+# Archives / packages
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# JVM crash logs
+hs_err_pid*
+
+
+
+# Test artifacts
+target/test-classes/
